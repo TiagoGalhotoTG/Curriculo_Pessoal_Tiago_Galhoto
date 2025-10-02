@@ -15,7 +15,7 @@
 
 #link {
     position: absolute;
-    top: 60px;
+    top: 62px;
     margin-left: 64%;
 }
 
@@ -51,7 +51,6 @@
 }
 
 #linha_c {
-
     max-width: 689px;
     position: absolute;
     top: 399px;
@@ -76,6 +75,6 @@
     margin-left: 24%;
 }
 
-p {
+p{
     text-align: justify;
 }
